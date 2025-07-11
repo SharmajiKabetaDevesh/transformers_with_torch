@@ -323,9 +323,4 @@ Understanding Transformers deeply requires grasping several core concepts. Here 
 
 Feel free to open issues or submit pull requests if you find bugs, have suggestions for improvements, or want to add more features (e.g., Beam Search for inference, support for larger datasets).
 
-## 📄 License
 
-This project is open-sourced under the MIT License. 
-
-```
-```
