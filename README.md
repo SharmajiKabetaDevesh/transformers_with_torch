@@ -1,5 +1,4 @@
 
-````
 # Transformer From Scratch: A Hands-On Implementation
 
 This repository contains a PyTorch implementation of the Transformer model, based on the seminal paper "[Attention Is All You Need](https://arxiv.org/abs/1706.03762)". This project aims to demystify the internal workings of Transformers by building them from the ground up, providing a clear and well-commented codebase.
